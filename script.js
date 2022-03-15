@@ -40,5 +40,3 @@ document.querySelector(".search-bar").addEventListener("keyup", function(e) {
         weather.search();
     }
 });
-
-weather.fetchWeather("Tokyo");
